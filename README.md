@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FocoLive
+- 👀 I’m interested in NodeJS
+- 🌱 I’m currently learning NodeJs Libraries
+- 💞️ I’m looking to collaborate on MySelf
+- 😍 I love Coding
